@@ -1,3 +1,3 @@
 # relogio-digital
 
-Projeto para criaçao de relogio digital
+Projeto para criação de relogio digital

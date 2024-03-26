@@ -24,7 +24,7 @@ justify-content: center;
 }
 
 .relogio div {
-    height: 170px;
+    height: 140px;
     width: 150;
     display: flex;
     flex-direction: column;
@@ -32,7 +32,7 @@ justify-content: center;
     justify-content: center;
     color: #fff;
     background:rgba(5, 5, 5, .9);
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, .7);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
     border-radius: 7px;
     letter-spacing: 3px;
 }
@@ -40,6 +40,7 @@ justify-content: center;
 .relogio span {
     font-weight: bolder;
     font-size: 60px;
+    padding: 3px;
 }
 
 .relogio span.tempo {
